@@ -1,0 +1,6 @@
+[09-Oct-2019 14:01:23 UTC] PHP Fatal error:  Can't use method return value in write context in /home/sampresh/app.sampresh.com/v2/src/Controller/AccountsController.php on line 84
+[11-Oct-2019 03:45:41 UTC] PHP Fatal error:  Cannot use [] for reading in /home/sampresh/app.sampresh.com/v2/src/Template/Transactions/tbacc.ctp on line 126
+[11-Oct-2019 04:25:54 UTC] PHP Fatal error:  Cannot use [] for reading in /home/sampresh/app.sampresh.com/v2/src/Template/Transactions/tbacc.ctp on line 6
+[11-Oct-2019 21:45:48 UTC] PHP Fatal error:  Constant expression contains invalid operations in /home/sampresh/app.sampresh.com/v2/src/Controller/AppController.php on line 67
+[11-Oct-2019 21:46:57 UTC] PHP Fatal error:  Constant expression contains invalid operations in /home/sampresh/app.sampresh.com/v2/src/Controller/AppController.php on line 67
+[11-Oct-2019 21:48:44 UTC] PHP Fatal error:  Constant expression contains invalid operations in /home/sampresh/app.sampresh.com/v2/src/Controller/AppController.php on line 67
